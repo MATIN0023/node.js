@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-ci-cd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "dependencies": {}
+}
